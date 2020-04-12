@@ -1,0 +1,76 @@
+/* font and colors */
+body{
+  background: rgb(245,245,245);
+  color: #4E6BC9;
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+}
+h1{
+  font-family: 'Berkshire Swash', cursive;
+  color: #CC4BC2;
+  font-weight: lighter;
+  font-size: 60px;
+}
+h2 {
+  font-family: 'Berkshire Swash', cursive;
+  color: #FE5D9F;
+  font-weight: lighter;
+  font-size: 20px;
+}
+a {
+  color: #53D8FB;
+}
+a:hover {
+  text-decoration: none;
+  color: #E16F7C;
+}
+
+
+/* custom design */
+#banner {
+  background-image: url("https://source.unsplash.com/random/800x300");
+  background-size: cover;
+  padding: 150px 0;
+  text-align: center;
+  color: white;
+}
+
+#banner p {
+  font-size: 30px
+  font-weight: lighter;
+}
+
+#banner h1 {
+  font-size: 63px
+}
+
+.card {
+  padding: 100px
+  font-size: 50px;
+  text-align: center;
+}
+
+.card h2 {
+  font-size: 30px
+}
+
+.card p {
+  font-size: 20px
+}
+
+#footer {
+  background: black
+  color: white;
+  font-size: 20px
+  padding: 20px;
+}
+#footer ul {
+  font-size: 20px
+  color: grey;
+  text-align: center;
+}
+#footer p {
+  font-size: 12px;
+  text-align: center;
+}
+
